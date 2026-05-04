@@ -2,6 +2,6 @@
   "name": "terabox-backend",
   "version": "1.0.0",
   "dependencies": {
-    "apify-client": "^1.7.1"
+    "apify-client": "1.5.11"
   }
 }
