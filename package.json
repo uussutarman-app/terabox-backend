@@ -1,7 +1,10 @@
 {
   "name": "terabox-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
-    "apify-client": "1.4.1"
+    "apify-client": "1.5.11"
   }
 }
