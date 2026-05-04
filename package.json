@@ -1,6 +1,7 @@
 {
   "name": "terabox-backend",
   "version": "1.0.0",
+  "description": "Terabox video extractor backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
